@@ -610,7 +610,7 @@
         "Education",
         "Finance"
       ],
-      "selecteTags": []
+      "selectedTags": []
     },
     "35": {
       "id": 35,
@@ -628,7 +628,7 @@
         "Education",
         "Finance"
       ],
-      "selecteTags": []
+      "selectedTags": []
     },
     "36": {
       "id": 36,
@@ -646,7 +646,7 @@
         "Education",
         "Finance"
       ],
-      "selected_tags": []
+      "selectedTags": []
     },
     "37": {
       "id": 37,
@@ -664,7 +664,7 @@
         "Education",
         "Finance"
       ],
-      "selected_tags": []
+      "selectedTags": []
     },
     "38": {
       "id": 38,
@@ -682,7 +682,7 @@
         "Education",
         "Finance"
       ],
-      "selected_tags": []
+      "selectedTags": []
     },
     "39": {
       "id": 39,
@@ -700,7 +700,7 @@
         "Education",
         "Finance"
       ],
-      "selected_tags": []
+      "selectedTags": []
     },
     "40": {
       "id": 40,
@@ -718,7 +718,7 @@
         "Education",
         "Finance"
       ],
-      "selected_tags": []
+      "selectedTags": []
     }
   }
   
